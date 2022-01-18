@@ -1,0 +1,2 @@
+# Andorid-Study-2
+Help Decision App For indecisiveness With [Dice project](https://dorunza.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%A3%BC%EC%82%AC%EC%9C%84-%EC%96%B4%ED%94%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
